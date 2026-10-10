@@ -1,0 +1,38 @@
+{
+  "address": "",
+  "brand_color": "#0b57d0",
+  "booking_url": "",
+  "business_name": "Lopez Plumbing",
+  "city": "Austin, TX",
+  "country": "US",
+  "email": "hello@example.com",
+  "hours": "Mon-Sat 8:00-18:00",
+  "image_url": "https://example.com/hero.jpg",
+  "lang": "en",
+  "market": "us",
+  "niche": "plumbing",
+  "phone": "+15125551234",
+  "plan_tier": "growth",
+  "primary_cta": "Call",
+  "reviews": [
+    "Fast and professional.",
+    "Great price and clean work."
+  ],
+  "secondary_cta": "WhatsApp",
+  "service_areas": [
+    "Austin",
+    "Round Rock"
+  ],
+  "services": [
+    "Leak repair",
+    "Drain cleaning",
+    "Water heater"
+  ],
+  "theme": "light",
+  "usp": [
+    "Same-day service",
+    "Clear pricing",
+    "Licensed & insured"
+  ],
+  "whatsapp": "+15125551234"
+}
