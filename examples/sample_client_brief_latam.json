@@ -1,0 +1,38 @@
+{
+  "address": "",
+  "brand_color": "#14b8a6",
+  "booking_url": "",
+  "business_name": "Plomeria Lopez",
+  "city": "San Salvador",
+  "country": "SV",
+  "email": "hola@example.com",
+  "hours": "Lun-Sab 8:00-18:00",
+  "image_url": "",
+  "lang": "es",
+  "market": "latam",
+  "niche": "plomeria",
+  "phone": "+50370000000",
+  "plan_tier": "base",
+  "primary_cta": "Llamar",
+  "reviews": [
+    "Llegaron rapido y resolvieron.",
+    "Buen trato y precio claro."
+  ],
+  "secondary_cta": "WhatsApp",
+  "service_areas": [
+    "San Salvador",
+    "Soyapango"
+  ],
+  "services": [
+    "Destape",
+    "Fugas",
+    "Instalaciones"
+  ],
+  "theme": "dark",
+  "usp": [
+    "Atencion rapida",
+    "Garantia",
+    "Precio claro"
+  ],
+  "whatsapp": "+50370000000"
+}
